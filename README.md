@@ -1,7 +1,7 @@
 Web Developer
 -------------
 
-✉️  You can contact me at [dobkos@hotmail.com](mailto:dobkos@hotmail.com)
+You can contact me at [dobkos@hotmail.com](mailto:dobkos@hotmail.com) ✉️
 
 ### Skills
 
