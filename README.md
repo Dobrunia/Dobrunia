@@ -3,8 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-dobkos%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:dobkos@hotmail.com)  
 
 ### 🔹 Core Skills
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass" />
-<img src="https://skillicons.dev/icons?i=tailwind,githubactions,materialui,vite,npm,yarn,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass" /><img src="https://skillicons.dev/icons?i=tailwind,githubactions,materialui,vite,npm,yarn,git" />
 
 ### 🔹 Also Worked With
 <img src="https://skillicons.dev/icons?i=go,docker,postman,redux,bootstrap,nginx,gulp" />
