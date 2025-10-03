@@ -3,13 +3,11 @@
 [![Email](https://img.shields.io/badge/Email-dobkos%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:dobkos@hotmail.com)  
 
 ### 🔹 Core Skills
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass" /><img src="https://skillicons.dev/icons?i=tailwind,githubactions,materialui,vite,npm,yarn,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind,githubactions,materialui,vite,npm,yarn,git" />
 
 ### 🔹 Also Worked With
-<img src="https://skillicons.dev/icons?i=go,docker,postman,redux,bootstrap,nginx,gulp" />
-<img src="https://skillicons.dev/icons?i=rust,php,nodejs,nextjs,python,kafka,mongodb" />
-<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno" />
-<img src="https://skillicons.dev/icons?i=rabbitmq,postgres,java,bun,latex"/>
+<img src="https://skillicons.dev/icons?i=go,docker,postman,redux,bootstrap,nginx,gulp " /><img src="https://skillicons.dev/icons?i=rust,php,nodejs,nextjs,python,kafka,mongodb" />
+<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno " /><img src="https://skillicons.dev/icons?i=rabbitmq,postgres,java,bun,latex"/>
 
 ## Stats
 
