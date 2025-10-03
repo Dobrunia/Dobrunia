@@ -9,8 +9,6 @@
 <img src="https://skillicons.dev/icons?i=go,docker,postman,redux,bootstrap,nginx,gulp,rust,php,nodejs,nextjs,python,kafka,mongodb" />
 <img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex " />
 
-## Stats
-
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrunia&layout=donut) -->
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
