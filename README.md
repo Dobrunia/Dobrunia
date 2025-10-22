@@ -6,8 +6,8 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind,githubactions,materialui,vite,npm,yarn,git" />
 
 ### 🔹 Also Worked With
-<img src="https://skillicons.dev/icons?i=go,lua,docker,postman,redux,bootstrap,nginx,gulp,rust,php,nodejs,nextjs,python,kafka,mongodb" />
-<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex " />
+<img src="https://skillicons.dev/icons?i=go,lua,docker,postman,redux,bootstrap,nginx,gulp,rust,php,nodejs,nextjs,python,mongodb" />
+<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,kafka,latex " />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrunia&layout=donut) -->
 
