@@ -11,11 +11,11 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrunia&layout=donut) -->
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dobrunia&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dobrunia&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&langs_count=10&hide=css,html,glsl,astro,javascript)
 
-![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=green)
+![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=orange)
 
 ## Links
 
