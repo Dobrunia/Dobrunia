@@ -13,7 +13,7 @@
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark&card_width=495)](https://github.com/DenverCoder1/github-readme-streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dobrunia&show_icons=true&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&card_width=495&theme=dark&langs_count=10&hide=css,html,glsl,astro,javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=495&theme=dark&langs_count=5&hide=css,html,glsl,astro,javascript,c%2B%2B,makefile,shell)
 
 ![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=orange)
 
