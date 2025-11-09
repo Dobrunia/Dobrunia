@@ -1,6 +1,6 @@
 # Web Developer  
 
-[![Email](https://img.shields.io/badge/Email-dobkos%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:dobkos@hotmail.com)  
+[![Email](https://img.shields.io/badge/Email-dobkos%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:dobkos@hotmail.com) ![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=blue)
 
 ### 🔹 Core Skills
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind,githubactions,materialui,vite,npm,yarn,git" />
@@ -14,8 +14,6 @@
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark&card_width=495)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dobrunia&show_icons=true&theme=dark&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&card_width=495&theme=dark&langs_count=5&hide=css,html,glsl,astro,javascript,c%2B%2B,makefile,shell)
-
-![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=orange)
 
 ## Links
 
