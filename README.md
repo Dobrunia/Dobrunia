@@ -3,13 +3,15 @@
 [![Email](https://img.shields.io/badge/Email-dobkos%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:dobkos@hotmail.com) ![Visitors](https://komarev.com/ghpvc/?username=Dobrunia&color=blue)
 
 ### 🔹 Core Skills
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,git,vue,react,tailwind,githubactions,materialui,vite,npm,yarn" />
-<img src="https://skillicons.dev/icons?i=rust,tauri" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,git,vue,react,tailwind,githubactions,vite,npm,yarn" />
+<img src="https://skillicons.dev/icons?i=rust" />
 
 ### 🔹 Also Worked With
-<img src="https://skillicons.dev/icons?i=lua,pinia,go,docker,kafka,postman,redux,bootstrap,gulp,nginx,mongodb,nodejs,python,php" />
-<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex,nextjs " />
-
+<!-- <p align="center"> -->
+  <img src="https://skillicons.dev/icons?i=lua,pinia,go,docker,kafka,postman,redux,bootstrap,gulp,nginx,mongodb,nodejs,python,php,express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex,nextjs,htmx,alpinejs,tauri,prisma,vitest,materialui,less" />
+  <!-- <img src="https://skillicons.dev/icons?i=" />
+  <img src="https://skillicons.dev/icons?i=" /> -->
+<!-- </p> -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrunia&layout=donut) -->
 
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dobrunia&theme=dark&card_width=495)](https://github.com/DenverCoder1/github-readme-streak-stats)
