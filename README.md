@@ -4,10 +4,11 @@
 
 ### 🔹 Core Skills
 <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,sass,tailwind,githubactions,materialui,vite,npm,yarn,git" />
+<img src="https://skillicons.dev/icons?i=rust" />
 
 ### 🔹 Also Worked With
-<img src="https://skillicons.dev/icons?i=lua,go,docker,postman,redux,bootstrap,nginx,gulp,rust,php,nodejs,nextjs,python,mongodb" />
-<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,kafka,latex " />
+<img src="https://skillicons.dev/icons?i=lua,go,docker,kafka,postman,redux,bootstrap,gulp,nginx,mongodb,nodejs,nextjs,python,php" />
+<img src="https://skillicons.dev/icons?i=express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex " />
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dobrunia&layout=donut) -->
 
