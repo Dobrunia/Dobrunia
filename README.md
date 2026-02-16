@@ -8,7 +8,7 @@
 
 ### 🔹 Also Worked With
 <!-- <p align="center"> -->
-  <img src="https://skillicons.dev/icons?i=lua,pinia,go,docker,kafka,postman,redux,bootstrap,gulp,nginx,mongodb,nodejs,python,php,express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex,nextjs,htmx,alpinejs,tauri,prisma,vitest,materialui,less" />
+  <img src="https://skillicons.dev/icons?i=lua,pinia,go,docker,kafka,postman,redux,bootstrap,gulp,nginx,mongodb,nodejs,python,php,express,mysql,redis,supabase,graphql,figma,deno,rabbitmq,postgres,java,bun,latex,nextjs,htmx,tauri,prisma,vitest,materialui,less" />
   <!-- <img src="https://skillicons.dev/icons?i=" />
   <img src="https://skillicons.dev/icons?i=" /> -->
 <!-- </p> -->
